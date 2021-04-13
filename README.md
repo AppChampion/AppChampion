@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**AppChampion/AppChampion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **AppChampion/AppChampion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - I’m currently working on the [JFKS Chronicle App](https://apps.apple.com/de/app/jfks-chronicle/id1559419959)
 - I’m currently learning Android Development and Machine Learning
