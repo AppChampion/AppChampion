@@ -3,6 +3,7 @@
 <!-- **AppChampion/AppChampion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - I developed the [JFKS Chronicle App](https://apps.apple.com/de/app/jfks-chronicle/id1559419959)
+- I am proficient in iOS development with Swift and SwiftUI
 - I’m currently learning Android Development and Machine Learning
 
 
